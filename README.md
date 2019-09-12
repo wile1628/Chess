@@ -9,7 +9,7 @@ To build client code execute: `npm run build`
 * Run server `npm start`
 * Run client `npm run client`
 
-## Building production version
+## Building production version 228
 
 Set environment variable `NODE_ENV` to `production`
 
